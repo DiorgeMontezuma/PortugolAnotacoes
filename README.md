@@ -1,4 +1,4 @@
-# ------------------Portugol Anotações------------------
+# -------------------------- Portugol Anotações --------------------------
 
 > Olá, meu nome é Diorge Montezuma. Tenho 15 anos e moro em Cuiabá, Mato Grosso. Estou cursando um curso com [Gustavo Guanabara](https://www.instagram.com/gustavoguanabara/) e vim compartilhar um pouco da minha evolução e algumas das minhas anotações próprias enquanto estudo ***ALGORITMO***.
 > No meu repositório, você encontrará anotações das aulas do professor Gustavo Guanabara sobre [***ALGORITMO***](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) e alguns exercícios feitos por mim. Espero que gostem. Obrigado.
