@@ -63,7 +63,7 @@ graph TD;
 ```mermaid
    graph TD;
    A(luminária não acende) -->B{Lâmpada está enroscada?}
-   B -->|Nâo| C(Enroscar lâmpada)
+   B -->|Não| C(Enroscar lâmpada)
    B -->|Sim| E{Lâmpada fundida?}
    E -->|Sim| F(Trocar lâmpada)
    E -->|Não| G(Comprar nova luminária)
