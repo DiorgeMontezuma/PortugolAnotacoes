@@ -24,11 +24,11 @@
 
   |  | |
   | --- | ---|
-  | <img height="20" width="20" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png"/> **Redes Sociais** | _Os algoritmos são utilizados pelas redes sociais para decidir quais postagens, anúncios e recomendações de amigos ou páginas são mostrados no feed de notícias de cada usuário._ |
-  | <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Google_Assistant_logo_circle.png"/> **Assistentes Virtuais** | _Algoritmos de processamento de linguagem natural são usados em assistentes virtuais como Siri, Google Assistant e Alexa para entender e responder às nossas perguntas e comandos._ |
-  | <img height="16" width="17" src="https://logodownload.org/wp-content/uploads/2018/01/google-maps-logo-1-1.png"/> **GPS e Navegação** | _Os aplicativos de navegação utilizam algoritmos para calcular a rota mais rápida e eficiente para chegar ao nosso destino, levando em consideração o tráfego e outras condições._ |
-  | <img height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/> **Filtros de E-mails** | _Os algoritmos são empregados para identificar e filtrar e-mails indesejados (spam) em nossa caixa de entrada._ |
-  |<img height="24" width="24" src="https://seeklogo.com/images/M/mercado-livre-logo-D1DC52B13E-seeklogo.com.png"/> **Recomendações Compras Online** | _Plataformas de comércio eletrônico utilizam algoritmos para sugerir produtos com base em nossas compras anteriores e interesses._ |
+  | <img height="14" width="19" src="https://cdn.simpleicons.org/instagram/white" /> **Redes Sociais** | _Os algoritmos são utilizados pelas redes sociais para decidir quais postagens, anúncios e recomendações de amigos ou páginas são mostrados no feed de notícias de cada usuário._ |
+  | <img height="14" width="19" src="https://cdn.simpleicons.org/googleassistant/white"/> **Assistentes Virtuais** | _Algoritmos de processamento de linguagem natural são usados em assistentes virtuais como Siri, Google Assistant e Alexa para entender e responder às nossas perguntas e comandos._ |
+  | <img height="14" width="19" src="https://cdn.simpleicons.org/googlemaps/white"/> **GPS e Navegação** | _Os aplicativos de navegação utilizam algoritmos para calcular a rota mais rápida e eficiente para chegar ao nosso destino, levando em consideração o tráfego e outras condições._ |
+  | <img height="14" width="19" src="https://cdn.simpleicons.org/gmail/white"/> **Filtros de E-mails** | _Os algoritmos são empregados para identificar e filtrar e-mails indesejados (spam) em nossa caixa de entrada._ |
+  |<img height="14" width="19" src="https://cdn.simpleicons.org/amazon/white"/> **Recomendações Compras Online** | _Plataformas de comércio eletrônico utilizam algoritmos para sugerir produtos com base em nossas compras anteriores e interesses._ |
   
 </details>
 
