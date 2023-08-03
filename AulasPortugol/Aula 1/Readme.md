@@ -1,23 +1,18 @@
-<div align="center">
-  
-# ----------- OQUE SÃO ALGORITMOS? :thinking: -----------
-<div align="center">
+#  O QUE SÃO ALGORITMOS? :thinking: 
 
-  
-> - ***Algoritmos são conjuntos de passos finitos e organizados que, quando executados, resolvem um determinado problema.***
-> - ***Toda reprodução de padrão é conhecida como rotina, esse tema também é usado em algoritmos.***
+***Algoritmos são conjuntos de passos finitos e organizados que, quando executados, resolvem um determinado problema.***
+***Toda reprodução de padrão é conhecida como rotina, esse tema também é usado em algoritmos.***
 
-<p align="center">
+<div align="center">
   <img width="450" src="https://guiatech.net/wp-content/uploads/2018/01/algoritmos-1.jpg">
-</p>
+</div>
+ 
 
-<div align="center"> 
+#  ALGORITMOS SERVEM PARA O QUÊ? :raised_eyebrow: 
 
-# ----------- ALGORITMOS SERVEM PARA O QUÊ? :raised_eyebrow: -----------
-<div align="left">
   
-> - Algoritmos servem para resolver problemas e executar tarefas de forma organizada e estruturada. 
-> - Eles são conjuntos de passos finitos e bem definidos que, quando seguidos corretamente, permitem alcançar um objetivo específico
+***Algoritmos servem para resolver problemas e executar tarefas de forma organizada e estruturada. 
+Eles são conjuntos de passos finitos e bem definidos que, quando seguidos corretamente, permitem alcançar um objetivo específico***
 
 <details open>
   <summary>Veja Alguns exemplos de aplicativos e tecnologias que fazem parte do nosso dia a dia atualmente e usam algoritmos ↷</summary>
@@ -34,9 +29,9 @@
 
  ↻ Clique em "▶" Para abrir os exemplos ou fechar
 <div>
-<div align="center">
+
   
-# ----------- EXEMPLOS :nerd_face: -----------
+#  EXEMPLOS :nerd_face: 
 ***Rotida do nosso cotidiano, Algoritmo hipotetico:***
 
 ```mermaid
